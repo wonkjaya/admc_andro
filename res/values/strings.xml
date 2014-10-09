@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">ADM Client</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ADM Client</string>
+    <string name="url_service">http://192.168.100.215:88/DEV/adm2_dev/index.php/service/</string>
+     
+    <string name="no_telp">No. Telp</string>
+    <string name="no_telp_summary">Setting No Telp</string>
+    <string name="key">Key</string>
+    <string name="key_summary">Setting Key</string>
+
+</resources>

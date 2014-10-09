@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+<PreferenceCategory android:title="@string/menu_settings" >
+	<EditTextPreference
+		android:title="@string/no_telp"
+		android:summary="@string/no_telp_summary"
+		android:key="prefNoTelp"/>
+	<EditTextPreference
+	    android:inputType="textPassword"
+		android:title="@string/key"
+		android:summary="@string/key_summary"
+		android:key="prefKey"/>
+</PreferenceCategory>
+
+</PreferenceScreen>
